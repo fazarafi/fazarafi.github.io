@@ -43,8 +43,8 @@ template {
   display: none;
 }
 a {
-  background-color: white;
-  opacity:0.9;
+  background-color: transparent;
+  align-content:center;
 }
 a:active,
 a:hover {
